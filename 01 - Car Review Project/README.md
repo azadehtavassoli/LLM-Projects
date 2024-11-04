@@ -1,7 +1,3 @@
-Here is a suggested README text for your GitHub project, including a mention of DataCamp:
-
----
-
 # Car Reviews Analysis
 
 This project performs various Natural Language Processing (NLP) tasks on car reviews using pre-trained models from the Hugging Face Transformers library. The tasks include sentiment analysis, translation, question answering, summarization, and toxicity analysis. This project was developed as part of a DataCamp online course.
