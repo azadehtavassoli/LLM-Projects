@@ -1,23 +1,23 @@
-Car Reviews Analysis
+## Car Reviews Analysis
 This project performs various Natural Language Processing (NLP) tasks on car reviews using pre-trained models from the Hugging Face Transformers library. The tasks include sentiment analysis, translation, question answering, and summarization. These tasks demonstrate how language models can support customer-focused companies like "Car-ing is sharing" in managing customer feedback, translations, and information extraction. This project was developed as part of a DataCamp online course.
 
-Project Overview
+# Project Overview
 The CTO of "Car-ing is sharing," a car sales and rental company, requested prototyping a chatbot app powered by large language models (LLMs) to address diverse inquiries. This project uses pre-trained LLMs to perform various NLP tasks on car reviews to simulate potential chatbot functionalities. Each task showcases a different aspect of LLM capabilities relevant to customer interactions.
 
-Key Tasks
-Sentiment Analysis
+# Key Tasks
+#Sentiment Analysis
 This task classifies the sentiment of car reviews to determine whether they are positive or negative. The results are then evaluated for accuracy and F1 score.
 
-Translation
+# Translation
 To support the company's growing Spanish-speaking customer base, the first two sentences of a review are translated into Spanish using an English-to-Spanish translation model. A BLEU score is calculated to evaluate the translation quality.
 
-Question Answering
+# Question Answering
 This task uses an extractive question-answering model to address specific inquiries related to brand aspects within a car review. For instance, given the question "What did they like about the brand?", the model provides relevant answers based on the review's content.
 
-Summarization
+# Summarization
 The last review is summarized into a concise format (approximately 50–55 tokens), providing a quick overview of the review.
 
-Steps
+## Steps
 Step 1: Sentiment Analysis
 This script performs sentiment analysis on car reviews using a pre-trained model from the Transformers library. The sentiment predictions are then evaluated using accuracy and F1 score metrics.
 
