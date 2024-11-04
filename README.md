@@ -1,6 +1,6 @@
 # LLM Project
 
-This repository contains various projects that leverage Large Language Models (LLMs) for different natural language processing (NLP) and Large Language Model (LLM) tasks. The initial project analyzes car reviews using pre-trained models from the `transformers` library. More projects will be added in the future.
+This repository contains various projects that leverage Large Language Models (LLMs) for different natural language processing (NLP) tasks. The initial project analyzes car reviews using pre-trained models from the `transformers` library. More projects will be added in the future.
 
 ## Table of Contents
 - [Car Review Project](#car-review-project)
