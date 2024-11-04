@@ -53,6 +53,4 @@ python carreview.py
 ## License
 This project is licensed under the MIT License.
 
----
 
-Feel free to customize this text further to better fit your project.
