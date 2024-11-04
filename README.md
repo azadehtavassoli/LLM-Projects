@@ -36,11 +36,3 @@ The Car Review Project performs several NLP tasks on car reviews, including:
     pip install -r requirements.txt
     ```
 
-## Usage
-
-Run the scripts in the order specified to perform the different NLP tasks. Each script is designed to handle a specific task as described below.
-
-### Sentiment Analysis
-Performs sentiment analysis on car reviews and calculates accuracy and F1 score.
-```sh
-python carreview.py
